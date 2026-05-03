@@ -1,6 +1,6 @@
 # Neural Network Project
 
-A simple implementation of a neural network using deep learning techniques for binary classification.
+A simple implementation of a neural network using deep learning techniques for binary classification. 
 
 ---
 
