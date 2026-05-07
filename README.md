@@ -100,12 +100,6 @@ python main.py
 
 ---
 
-## License
-
-This project is open-source and available under the MIT License.
-
----
-
 ## Acknowledgements
 
 Based on standard deep learning practices and experimentation.
